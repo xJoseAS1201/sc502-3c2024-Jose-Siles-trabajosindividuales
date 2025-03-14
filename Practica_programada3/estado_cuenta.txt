@@ -1,0 +1,11 @@
+Cuenta
+
+1 - Compra en supermercado - Monto: 120.50
+2 - Pago de servicio de internet - Monto: 55.75
+3 - Cena en restaurante - Monto: 89.90
+4 - Compra en tienda de ropa - Monto: 150.00
+
+Monto total de contado: 416.15
+Monto total con interés (2.6%): 426.97
+Cashback (0.1%): 0.42
+Monto Final: 426.55
